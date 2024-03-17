@@ -1,5 +1,5 @@
-E-commerce API
-This project provides the backend API for the Postaway Application, an e-commerce platform. It offers various endpoints for user authentication, post management, likes, and comments on posts.
+Postify API
+This project provides the backend API for the Postaway Application, an social-media platform. It offers various endpoints for user authentication, post management, likes, and comments on posts.
 
 Authentication
 Signin
